@@ -1,0 +1,13 @@
+iOS App with 3 pages:
+Events:
+for User created events.
+
+Student Council:
+for information about student council
+
+Announcements:
+from RAs and Offices
+
+
+Login page.
+
